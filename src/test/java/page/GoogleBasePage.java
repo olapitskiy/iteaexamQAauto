@@ -16,5 +16,3 @@ public class GoogleBasePage {
         return driver.getCurrentUrl();
     }
 }
-
-//

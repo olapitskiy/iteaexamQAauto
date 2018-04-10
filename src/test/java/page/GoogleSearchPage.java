@@ -46,5 +46,3 @@ public class GoogleSearchPage extends GoogleBasePage{
     }
 
 }
-
-//
