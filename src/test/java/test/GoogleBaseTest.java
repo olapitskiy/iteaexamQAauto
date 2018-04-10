@@ -36,6 +36,6 @@ public class GoogleBaseTest {
     }
     @AfterMethod
     public void afterTest() {
-        driver.close(); //
+        driver.close();
     }
 }
